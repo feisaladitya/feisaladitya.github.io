@@ -1,18 +1,18 @@
 # Feisal Aditya — Portfolio
 
-Static portfolio for GitHub Pages.
+Static portfolio website for GitHub Pages.
 
-## Recommended GitHub Pages setup
+## Live site
 
-Create a **public repository named `feisaladitya.github.io`** under the GitHub account `feisaladitya` and upload the contents of this folder to the repository root.
+https://feisaladitya.github.io/
 
-Then open **Settings → Pages** and choose **Deploy from a branch → main → /(root)**.
+## Stack
 
-The site will be available at:
-
-`https://feisaladitya.github.io/`
-
-No paid hosting or domain is required for this setup.
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- SVG / PNG / JPG assets
+- GitHub Pages
 
 ## Contact
 
@@ -21,6 +21,10 @@ No paid hosting or domain is required for this setup.
 - LinkedIn: https://www.linkedin.com/in/feisal-aditya-b5857271/
 - GitHub: https://github.com/feisaladitya
 
-## Later custom domain
+## Deployment
 
-When a custom domain is purchased, update the canonical/OG URLs, sitemap and GitHub Pages custom-domain setting. The site does not depend on a paid domain today.
+Repository: `feisaladitya.github.io`
+
+Publishing source: `main` branch, repository root.
+
+The package includes `.nojekyll` so GitHub Pages can publish the static files directly without Jekyll processing.

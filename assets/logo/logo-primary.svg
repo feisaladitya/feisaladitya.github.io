@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1687ff"/><stop offset="1" stop-color="#08c7e9"/></linearGradient></defs>
+  <g transform="translate(10 10) scale(.254)"><rect width="512" height="512" rx="92" fill="#082952"/><path d="M98 132h185l-36 62H98zM98 194h112l-36 61H98zM98 255h76l-37 62H98z" fill="#fff"/><path d="M300 132h57L445 370h-70l-22-59h-87l-28 59h-72l134-238zm-7 122h42l-21-58-21 58z" fill="url(#g)"/><path d="M243 330c61-27 135-13 189 39-66-38-131-36-189-6z" fill="url(#g)" opacity=".95"/></g>
+  <text x="155" y="70" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#082952">Feisal Aditya</text>
+  <text x="157" y="108" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#28618f">IT Solutions for Business</text>
+</svg>
